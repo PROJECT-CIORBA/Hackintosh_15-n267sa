@@ -19,7 +19,7 @@
   - Brightness Keys
   - Everything else 💀
 </details>
-## Credits
+<h2>Credits</h2>
 
 - [Apple](https://www.apple.com) - for [macOS](https://www.apple.com/pl/macos/big-sur)
 - [Acidanthera](https://github.com/acidanthera) team - for OpenCore and necessary kernel extensions
