@@ -5,18 +5,18 @@
 ## Status
 <details>
   <summary>Not Working</summary>
-  - Ethernet Port (Drivers not wroking for some reason)
-  - WiFi Card (Requires changing the WiFi due to the lack of drivers for Realtek WiFi cards)
+  - Ethernet Port (Drivers not wroking for some reason)<br>
+  - WiFi Card (Requires changing the WiFi due to the lack of drivers for Realtek WiFi cards)<br>
   - USB Ports
 </details>
 <details>
   <summary>Working</summary>
-  - Trackpad (With Gestures)
+  - Trackpad (With Gestures)<br>
   - Keyboard
 </details>
 <details>
   <summary>Not Tested</summary>
-  - Brightness Keys
+  - Brightness Keys<br>
   - Everything else 💀
 </details>
 <h2>Credits</h2>
