@@ -1,6 +1,6 @@
 # HP Pavilion 15-n267sa Hackintosh OpenCore files
 **Status: WIP (Unable to connect to internet)**
-**Current Version: MacOS High Sierra (10.13.3)**
+**Current Version: MacOS High Sierra (10.13.3)**<br>
 [![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.0)
 ## Status
 <details>
